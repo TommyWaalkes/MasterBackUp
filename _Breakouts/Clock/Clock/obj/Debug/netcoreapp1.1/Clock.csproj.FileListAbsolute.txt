@@ -1,0 +1,8 @@
+c:\users\tommy\documents\visual studio 2017\Projects\Clock\Clock\bin\Debug\netcoreapp1.1\Clock.deps.json
+c:\users\tommy\documents\visual studio 2017\Projects\Clock\Clock\bin\Debug\netcoreapp1.1\Clock.runtimeconfig.json
+c:\users\tommy\documents\visual studio 2017\Projects\Clock\Clock\bin\Debug\netcoreapp1.1\Clock.runtimeconfig.dev.json
+c:\users\tommy\documents\visual studio 2017\Projects\Clock\Clock\bin\Debug\netcoreapp1.1\Clock.dll
+c:\users\tommy\documents\visual studio 2017\Projects\Clock\Clock\bin\Debug\netcoreapp1.1\Clock.pdb
+c:\users\tommy\documents\visual studio 2017\Projects\Clock\Clock\obj\Debug\netcoreapp1.1\Clock.AssemblyInfo.cs
+c:\users\tommy\documents\visual studio 2017\Projects\Clock\Clock\obj\Debug\netcoreapp1.1\Clock.dll
+c:\users\tommy\documents\visual studio 2017\Projects\Clock\Clock\obj\Debug\netcoreapp1.1\Clock.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="APIwithEntity.Models.CarContext-Web.config Connection String" description="APIwithEntity.Models.CarContext Connection String used in web.config by the application to access the database." defaultValue="APIwithEntity.Models.CarContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Tommy\\Documents\\Visual\ Studio\ 2017\\Projects\\APIwithEntity\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='APIwithEntity.Models.CarContext']/@connectionString" />
+  </parameter>
+</parameters>

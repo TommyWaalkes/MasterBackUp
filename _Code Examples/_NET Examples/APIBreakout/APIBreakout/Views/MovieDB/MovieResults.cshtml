@@ -1,0 +1,14 @@
+﻿<h2>MovieResults</h2>
+
+
+<h2>@ViewBag.title</h2>
+
+
+@foreach (string s in @ViewBag.actors)
+{
+    <p>@s</p>
+}
+
+<img src="@ViewBag.ImgPath"/>
+
+@ViewBag.dat

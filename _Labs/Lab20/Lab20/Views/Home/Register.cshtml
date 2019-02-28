@@ -1,0 +1,98 @@
+﻿@model Lab20.Models.Register
+@{
+    ViewBag.Title = "Register"; 
+}
+<style>
+.centerElement{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+p,h1,h2,h3,h4,h5{
+    text-align:left;
+}
+body{
+    background-image: url("/Content/elmo.jpg");
+    background-repeat:no-repeat;
+    height: auto;
+    width: auto;
+    background-size: cover;
+}
+.registerBackground{
+    background-image: url("/Content/elmo.jpg");
+}
+</style>
+<img src="~/Content/200_s.gif" />
+<img src="~/Content/yo-dawg-xhibit-12.jpg" />
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Register With GC Lab 22 Version</p>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <form class="form-primary" action="Success">
+        <fieldset class="form-group">
+            <div class="">
+                @Html.LabelFor(model => model.FirstName, "First Name", new { style = "display:inline;" })
+                @Html.EditorFor(model => model.FirstName)
+            </div>
+            <div>
+                @Html.LabelFor(model => model.Email, "Email", new { style = "display:inline;" })
+                @Html.EditorFor(model => model.Email)
+            </div>
+
+            <input type="submit" class="btn-custom" value="Submit" />
+            <input type="reset" class="btn-custom" value="Clear" />
+        </fieldset>
+    </form>
+
+}
+
+
+    <div> 
+        <br />
+        <p>Register With GC Lab 20 Version</p>
+       
+        
+        <form style="" class="centerElement" name="Reg" action="Success" method="post">
+            <p><strong><em>Name:</em></strong></p>
+            <input type="text" name="FirstName" required />
+            <p><em>Email:</em></p>
+            <input type="email" name="Email" required />
+            <p><em>Phone Number:</em></p>
+            <input type="tel" name="Phone"  pattern="^\d{3}-\d{3}-\d{4}$" required/>
+            <select>
+                <option value="Mi">Michigan</option>
+                <option value="NC">North Carolina</option>
+                <option value="GA">Georgia</option>
+                <option value="Oh">Ohio</option>
+            </select>
+            <p><em>Password:</em></p> 
+            <input type="password" name="password">
+
+            <input type="submit" name="submit" value="Submit">
+        </form>
+    </div>
+
+<p>This is a spiffy form</p>
+<script>
+    function validateForm() {
+        var fName = document.forms["Reg"]["FirstName"].value;
+        if (fName == "") {
+            alert("Name must be filled out");
+            return false;
+        }
+
+        var email = document.forms["Reg"]["email"].value;
+
+        if (email == "") {
+            alert("Email Must filled out");
+            return false;
+        }
+    }
+</script>
+<img src="~/Content/elmo.jpg" />
+
+

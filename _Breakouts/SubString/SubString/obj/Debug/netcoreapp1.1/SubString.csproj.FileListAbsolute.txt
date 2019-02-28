@@ -1,0 +1,9 @@
+c:\users\tommy\documents\visual studio 2017\Projects\SubString\SubString\bin\Debug\netcoreapp1.1\SubString.deps.json
+c:\users\tommy\documents\visual studio 2017\Projects\SubString\SubString\bin\Debug\netcoreapp1.1\SubString.runtimeconfig.json
+c:\users\tommy\documents\visual studio 2017\Projects\SubString\SubString\bin\Debug\netcoreapp1.1\SubString.runtimeconfig.dev.json
+c:\users\tommy\documents\visual studio 2017\Projects\SubString\SubString\bin\Debug\netcoreapp1.1\SubString.dll
+c:\users\tommy\documents\visual studio 2017\Projects\SubString\SubString\bin\Debug\netcoreapp1.1\SubString.pdb
+c:\users\tommy\documents\visual studio 2017\Projects\SubString\SubString\obj\Debug\netcoreapp1.1\SubString.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2017\Projects\SubString\SubString\obj\Debug\netcoreapp1.1\SubString.AssemblyInfo.cs
+c:\users\tommy\documents\visual studio 2017\Projects\SubString\SubString\obj\Debug\netcoreapp1.1\SubString.dll
+c:\users\tommy\documents\visual studio 2017\Projects\SubString\SubString\obj\Debug\netcoreapp1.1\SubString.pdb

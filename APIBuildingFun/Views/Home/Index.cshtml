@@ -1,0 +1,25 @@
+﻿<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<div id="Output">
+
+</div>
+
+<script>
+    $(document).ready(function () {
+        $.ajax({
+            type: "GET",
+            url: "/api/Values/",
+            success: function (data) {
+                console.log(data);
+                for (i = 0; i < data.length; i++) {
+                    console.log(data[i]);
+                    var student = data[i];
+                    var studentInfo = student.Name + student.Age + student.FavoriteClass;
+                    $('#Output').append("<p>" + studentInfo + "</p>");
+                }
+               // $("#Output").text(data[0].Name);
+            }
+        });
+    });
+</script>
+

@@ -1,0 +1,6 @@
+c:\users\tommy\documents\visual studio 2017\Projects\StringLimit\bin\Debug\StringLimit.exe.config
+c:\users\tommy\documents\visual studio 2017\Projects\StringLimit\bin\Debug\StringLimit.exe
+c:\users\tommy\documents\visual studio 2017\Projects\StringLimit\bin\Debug\StringLimit.pdb
+c:\users\tommy\documents\visual studio 2017\Projects\StringLimit\obj\Debug\StringLimit.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2017\Projects\StringLimit\obj\Debug\StringLimit.exe
+c:\users\tommy\documents\visual studio 2017\Projects\StringLimit\obj\Debug\StringLimit.pdb

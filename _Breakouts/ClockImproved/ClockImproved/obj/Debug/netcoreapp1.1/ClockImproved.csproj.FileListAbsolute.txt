@@ -1,0 +1,8 @@
+c:\users\tommy\documents\visual studio 2017\Projects\ClockImproved\ClockImproved\bin\Debug\netcoreapp1.1\ClockImproved.deps.json
+c:\users\tommy\documents\visual studio 2017\Projects\ClockImproved\ClockImproved\bin\Debug\netcoreapp1.1\ClockImproved.runtimeconfig.json
+c:\users\tommy\documents\visual studio 2017\Projects\ClockImproved\ClockImproved\bin\Debug\netcoreapp1.1\ClockImproved.runtimeconfig.dev.json
+c:\users\tommy\documents\visual studio 2017\Projects\ClockImproved\ClockImproved\bin\Debug\netcoreapp1.1\ClockImproved.dll
+c:\users\tommy\documents\visual studio 2017\Projects\ClockImproved\ClockImproved\bin\Debug\netcoreapp1.1\ClockImproved.pdb
+c:\users\tommy\documents\visual studio 2017\Projects\ClockImproved\ClockImproved\obj\Debug\netcoreapp1.1\ClockImproved.AssemblyInfo.cs
+c:\users\tommy\documents\visual studio 2017\Projects\ClockImproved\ClockImproved\obj\Debug\netcoreapp1.1\ClockImproved.dll
+c:\users\tommy\documents\visual studio 2017\Projects\ClockImproved\ClockImproved\obj\Debug\netcoreapp1.1\ClockImproved.pdb

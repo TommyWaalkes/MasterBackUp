@@ -1,0 +1,24 @@
+﻿
+<h2>Data</h2>
+
+@ViewBag.Forecast
+
+@ViewBag.Time
+@ViewBag.Production
+
+<p>@ViewBag.APIText</p>
+
+<p>@ViewBag.JSONData</p>
+
+<p>@ViewBag.Temp</p>
+
+<p>@ViewBag.AllTemps</p>
+@foreach (string s in @ViewBag.Forecasts)
+{
+<h3>
+    @Html.Label(s)
+</h3><br />
+}
+
+@ViewBag.r
+

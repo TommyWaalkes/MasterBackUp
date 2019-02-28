@@ -1,0 +1,14 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Breakouts\Lab 7\bin\Debug\Lab 7.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Breakouts\Lab 7\bin\Debug\Lab 7.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Breakouts\Lab 7\bin\Debug\Lab 7.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Breakouts\Lab 7\obj\Debug\Lab 7.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Breakouts\Lab 7\obj\Debug\Lab 7.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Breakouts\Lab 7\obj\Debug\Lab 7.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Breakouts\Lab 7\obj\Debug\Lab 7.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab 7\bin\Debug\Lab 7.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab 7\bin\Debug\Lab 7.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab 7\bin\Debug\Lab 7.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab 7\obj\Debug\Lab 7.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab 7\obj\Debug\Lab 7.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab 7\obj\Debug\Lab 7.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab 7\obj\Debug\Lab 7.pdb

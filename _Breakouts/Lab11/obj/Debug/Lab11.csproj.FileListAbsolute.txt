@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab11\bin\Debug\Lab11.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab11\obj\Debug\Lab11.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\Lab11\obj\Debug\Lab11.pdb

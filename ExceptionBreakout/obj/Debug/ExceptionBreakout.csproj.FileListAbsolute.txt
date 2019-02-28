@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\ExceptionBreakout\bin\Debug\ExceptionBreakout.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\ExceptionBreakout\bin\Debug\ExceptionBreakout.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\ExceptionBreakout\bin\Debug\ExceptionBreakout.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\ExceptionBreakout\obj\Debug\ExceptionBreakout.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\ExceptionBreakout\obj\Debug\ExceptionBreakout.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\ExceptionBreakout\obj\Debug\ExceptionBreakout.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\ExceptionBreakout\obj\Debug\ExceptionBreakout.pdb

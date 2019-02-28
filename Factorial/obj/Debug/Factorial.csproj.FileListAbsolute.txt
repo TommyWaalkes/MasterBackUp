@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Factorial\bin\Debug\Factorial.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Factorial\obj\Debug\Factorial.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Factorial\obj\Debug\Factorial.pdb

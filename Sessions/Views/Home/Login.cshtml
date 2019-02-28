@@ -1,0 +1,14 @@
+﻿@if(Session["CurrentUserName"] != null)
+{
+    <h2>Hello, @Session["CurrentUserName"]</h2>
+}
+
+<form action="Login" method="post">
+    <p>User Name:</p>
+    <input name="Name" type="text" placeholder="User Name"/>
+    <br />
+    <p>Password:</p>
+    <input name="Password" type="password" />
+
+    <input type="submit"/>
+</form>

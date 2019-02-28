@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\EmailValdiation\bin\Debug\EmailValdiation.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\EmailValdiation\bin\Debug\EmailValdiation.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\EmailValdiation\bin\Debug\EmailValdiation.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\EmailValdiation\obj\Debug\EmailValdiation.csprojAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\EmailValdiation\obj\Debug\EmailValdiation.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\EmailValdiation\obj\Debug\EmailValdiation.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\EmailValdiation\obj\Debug\EmailValdiation.pdb

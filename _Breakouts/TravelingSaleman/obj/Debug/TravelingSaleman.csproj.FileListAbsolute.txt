@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\TravelingSaleman\bin\Debug\TravelingSaleman.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\TravelingSaleman\bin\Debug\TravelingSaleman.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\TravelingSaleman\bin\Debug\TravelingSaleman.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\TravelingSaleman\obj\Debug\TravelingSaleman.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\TravelingSaleman\obj\Debug\TravelingSaleman.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\TravelingSaleman\obj\Debug\TravelingSaleman.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\TravelingSaleman\obj\Debug\TravelingSaleman.pdb

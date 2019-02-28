@@ -1,0 +1,15 @@
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Labs\BlankTest\BlankTest\bin\Debug\BlankTest.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Labs\BlankTest\BlankTest\bin\Debug\BlankTest.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Labs\BlankTest\BlankTest\bin\Debug\BlankTest.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Labs\BlankTest\BlankTest\bin\Debug\BlankTest.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Labs\BlankTest\BlankTest\obj\Debug\BlankTest.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Labs\BlankTest\BlankTest\obj\Debug\BlankTest.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Labs\BlankTest\BlankTest\obj\Debug\BlankTest.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Labs\BlankTest\BlankTest\obj\Debug\BlankTest.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\BlankTest\BlankTest\bin\Debug\BlankTest.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\BlankTest\BlankTest\bin\Debug\BlankTest.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\BlankTest\BlankTest\bin\Debug\BlankTest.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\BlankTest\BlankTest\obj\Debug\BlankTest.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\BlankTest\BlankTest\obj\Debug\BlankTest.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\BlankTest\BlankTest\obj\Debug\BlankTest.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\BlankTest\BlankTest\obj\Debug\BlankTest.pdb

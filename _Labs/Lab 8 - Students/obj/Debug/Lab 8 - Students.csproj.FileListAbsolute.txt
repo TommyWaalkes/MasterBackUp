@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\Lab 8 - Students\bin\Debug\Lab 8 - Students.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\Lab 8 - Students\bin\Debug\Lab 8 - Students.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\Lab 8 - Students\bin\Debug\Lab 8 - Students.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\Lab 8 - Students\obj\Debug\Lab 8 - Students.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\Lab 8 - Students\obj\Debug\Lab 8 - Students.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\Lab 8 - Students\obj\Debug\Lab 8 - Students.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Labs\Lab 8 - Students\obj\Debug\Lab 8 - Students.pdb

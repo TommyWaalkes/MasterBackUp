@@ -1,0 +1,6 @@
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Lab12Breakout\Lab12Breakout\bin\Debug\Lab12Breakout.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Lab12Breakout\Lab12Breakout\bin\Debug\Lab12Breakout.exe
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Lab12Breakout\Lab12Breakout\bin\Debug\Lab12Breakout.pdb
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Lab12Breakout\Lab12Breakout\obj\Debug\Lab12Breakout.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Lab12Breakout\Lab12Breakout\obj\Debug\Lab12Breakout.exe
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Lab12Breakout\Lab12Breakout\obj\Debug\Lab12Breakout.pdb

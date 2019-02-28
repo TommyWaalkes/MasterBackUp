@@ -1,0 +1,19 @@
+c:\users\tommy\documents\visual studio 2017\Projects\Oven\bin\Debug\Oven.exe.config
+c:\users\tommy\documents\visual studio 2017\Projects\Oven\bin\Debug\Oven.exe
+c:\users\tommy\documents\visual studio 2017\Projects\Oven\bin\Debug\Oven.pdb
+c:\users\tommy\documents\visual studio 2017\Projects\Oven\obj\Debug\Oven.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2017\Projects\Oven\obj\Debug\Oven.exe
+c:\users\tommy\documents\visual studio 2017\Projects\Oven\obj\Debug\Oven.pdb
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Object Examples\Oven\bin\Debug\Oven.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Object Examples\Oven\obj\Debug\Oven.exe
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Object Examples\Oven\obj\Debug\Oven.pdb
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Object Examples\Oven\bin\Debug\Oven.exe
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Object Examples\Oven\bin\Debug\Oven.pdb
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\Object Examples\Oven\obj\Debug\Oven.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Oven\bin\Debug\Oven.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Oven\bin\Debug\Oven.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Oven\bin\Debug\Oven.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Oven\obj\Debug\Oven.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Oven\obj\Debug\Oven.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Oven\obj\Debug\Oven.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_Object Examples\Oven\obj\Debug\Oven.pdb

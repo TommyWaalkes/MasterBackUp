@@ -1,0 +1,33 @@
+﻿@model IEnumerable<TaskListBreakout.Models.Task>
+
+<table>
+    <tr>
+        <th>
+            <h3>Description</h3>
+        </th>
+
+        <th>
+            <h3>Due Date</h3>
+        </th>
+
+        <th>
+            <h3>User ID</h3>
+        </th>
+    </tr>
+@foreach(var t in Model)
+{
+    <tr>
+        <td>
+            <p>@t.Description</p>
+        </td>
+        <td>
+            <p>@t.DueDate</p>
+        </td>
+        <td>
+            <p>@t.UserID</p>
+        </td>
+    </tr>
+   
+}
+</table>
+@Html.ActionLink("Create New Task", "CreateTask")

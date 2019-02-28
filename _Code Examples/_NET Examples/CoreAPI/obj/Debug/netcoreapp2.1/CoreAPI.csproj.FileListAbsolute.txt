@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.deps.json
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.runtimeconfig.json
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.dll
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorAssemblyInfo.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorAssemblyInfo.cs
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.AssemblyInfo.cs
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.dll
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\_NET Examples\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.pdb

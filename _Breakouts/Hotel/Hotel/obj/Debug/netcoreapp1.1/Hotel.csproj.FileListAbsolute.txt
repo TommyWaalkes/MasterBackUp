@@ -1,0 +1,8 @@
+c:\users\tommy\documents\visual studio 2017\Projects\Hotel\Hotel\bin\Debug\netcoreapp1.1\Hotel.deps.json
+c:\users\tommy\documents\visual studio 2017\Projects\Hotel\Hotel\bin\Debug\netcoreapp1.1\Hotel.runtimeconfig.json
+c:\users\tommy\documents\visual studio 2017\Projects\Hotel\Hotel\bin\Debug\netcoreapp1.1\Hotel.runtimeconfig.dev.json
+c:\users\tommy\documents\visual studio 2017\Projects\Hotel\Hotel\bin\Debug\netcoreapp1.1\Hotel.dll
+c:\users\tommy\documents\visual studio 2017\Projects\Hotel\Hotel\bin\Debug\netcoreapp1.1\Hotel.pdb
+c:\users\tommy\documents\visual studio 2017\Projects\Hotel\Hotel\obj\Debug\netcoreapp1.1\Hotel.AssemblyInfo.cs
+c:\users\tommy\documents\visual studio 2017\Projects\Hotel\Hotel\obj\Debug\netcoreapp1.1\Hotel.dll
+c:\users\tommy\documents\visual studio 2017\Projects\Hotel\Hotel\obj\Debug\netcoreapp1.1\Hotel.pdb

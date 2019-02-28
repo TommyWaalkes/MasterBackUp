@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="text">
+    <p class="redText">Hello, @ViewBag.Name</p>
+    <h2 class="redText">@ViewBag.Message</h2>
+    <h2>@ViewBag.Title</h2>
+    <p>@Html.ActionLink("Register", "Register", "Home")</p>
+    <h1>@Html.ActionLink("Contact me Here", "Contact", "Home")</h1>
+</div>
+@{string name = "tommy";
+    @name
+    }
+
+
+<ul>
+    @for (int i = 0; i < 10; i++)
+        {
+        <li>@i</li>
+        }
+</ul>
+

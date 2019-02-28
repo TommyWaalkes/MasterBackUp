@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Search Exercise\bin\Debug\Search Exercise.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Search Exercise\bin\Debug\Search Exercise.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Search Exercise\bin\Debug\Search Exercise.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Search Exercise\obj\Debug\Search Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Search Exercise\obj\Debug\Search Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Search Exercise\obj\Debug\Search Exercise.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Search Exercise\obj\Debug\Search Exercise.pdb
